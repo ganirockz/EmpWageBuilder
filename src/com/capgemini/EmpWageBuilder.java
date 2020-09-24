@@ -2,7 +2,7 @@ package com.capgemini;
 
 public class EmpWageBuilder {
 	public static final int is_part_time = 1;
-	public static final int is_full_time = 2,emp_rate_per_hour = 20,num_of_working_days = 2;
+	public static final int is_full_time = 2,emp_rate_per_hour = 20,num_of_working_days = 20;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int empHrs = 0,empWage = 0,totalEmpWage = 0;
